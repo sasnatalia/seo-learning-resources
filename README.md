@@ -7,7 +7,8 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 ## Certificate 
 - [academy.moz](https://academy.moz.com/) technical seo 
 ## Articles
-- [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) [https://moz.com/](https://moz.com/)
+- [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+site [https://moz.com/](https://moz.com/)
 - [SEO for Beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-101/) [https://www.searchenginejournal.com](https://www.searchenginejournal.com)
 - [Ultimate E-E-A-T Guide for 2025](https://www.marketingaid.io/ultimate-eeat-guide/)  [https://www.marketingaid.io](https://www.marketingaid.io)
 ## Tutorials
