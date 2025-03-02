@@ -17,4 +17,5 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 ## Tools
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
 - [Ahrefs SEO Tool](https://ahrefs.com/)
+- [Technical SEO (and Beyond) Site Audit Checklist]{https://docs.google.com/spreadsheets/d/1V85o8Zhh0FcXEimMzbkDkbb8mtuNtdW_aDaZKDTSDPo/edit?gid=0#gid=0}
 
