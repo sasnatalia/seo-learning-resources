@@ -5,7 +5,7 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 # SEO Learning Resources
 
 ## Certificate 
-- [academy.moz] (https://academy.moz.com/)
+- [academy.moz](https://academy.moz.com/) technical seo 
 ## Articles
 - [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [SEO for Beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-101/)
