@@ -4,14 +4,20 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 
 # SEO Learning Resources
 
+## Check list
+- https://docs.google.com/spreadsheets/d/1ESRHmL2_OMPyOeJ1vT2xQAMn6csTrwTkhO2mhoTEeyM/edit?gid=1950399164#gid=1950399164
+
 ## Certificate 
 - [academy.moz](https://academy.moz.com/) technical seo
 - https://www.efset.org/ english
+- https://htmlacademy.ru/ 
+- 
 ## Articles
 - https://moz.com/beginners-guide-to-seo 
 - [SEO for Beginners: An Introduction to SEO Basics](https://www.searchenginejournal.com/seo-101/) 
 - [Ultimate E-E-A-T Guide for 2025](https://www.marketingaid.io/ultimate-eeat-guide/)
-- https://www.semrush.com/blog/rich-snippets/ 
+- https://www.semrush.com/blog/rich-snippets/
+- https://htmlacademy.ru/blog/html-tags/book  html справочник
 ## Tutorials
 - [Google's SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en)
 - [SEO Tutorial for Beginners](https://www.youtube.com/watch?v=ZvYsbkQ0aXg)
