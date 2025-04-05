@@ -21,9 +21,15 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 ## Tutorials
 - [Google's SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en)
 - [SEO Tutorial for Beginners](https://www.youtube.com/watch?v=ZvYsbkQ0aXg)
+- [Guide: Google: Robots.txt guidelines](https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt?hl=ru)
+
 
 ## Tools
 - [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
 - [Ahrefs SEO Tool](https://ahrefs.com/)
 - [Technical SEO- Audit Checklist](https://docs.google.com/spreadsheets/d/1V85o8Zhh0FcXEimMzbkDkbb8mtuNtdW_aDaZKDTSDPo/edit?gid=0#gid=0)
+-  [Google Robots.txt Tester](https://support.google.com/webmasters/answer/6062598)
+
+- [BuzzSumo](https://buzzsumo.com/) You can fnd this by entering
+each one into a free social sharing analytics tool like BuzzSumo and calculating the average.
 
