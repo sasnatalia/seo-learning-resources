@@ -9,7 +9,6 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 
 ## Certificate 
 - [academy.moz](https://academy.moz.com/) technical seo
-- https://www.efset.org/ english
 - https://www.codecademy.com/catalog/language/html-css
 - https://htmlacademy.ru/ 
 - 
