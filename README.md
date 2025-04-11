@@ -8,6 +8,7 @@ A curated collection of valuable resources and links for self-learning SEO (Sear
 - https://docs.google.com/spreadsheets/d/1ESRHmL2_OMPyOeJ1vT2xQAMn6csTrwTkhO2mhoTEeyM/edit?gid=1950399164#gid=1950399164
 
 ## Certificate 
+- [semrush.com/academy/courses/technical-seo-course](https://www.semrush.com/academy/courses/technical-seo-course-with-bastian-grimm/?utm_source=academy&utm_medium=youtube_description&utm_campaign=technical_seo_course_eng) free course [youtube](https://www.youtube.com/watch?v=kNUUfZL0Xfg&list=PLA3RYzgiDZlMhNPBiVbITINr9vwuezH-i "Technical SEO course with Bastian Grimm")
 - [academy.moz](https://academy.moz.com/) technical seo
 - https://www.codecademy.com/catalog/language/html-css
 - https://htmlacademy.ru/ 
